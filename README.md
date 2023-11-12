@@ -8,4 +8,5 @@ Esta nota se ha puesto desde github para bajarlo con pull y verlo en nuestro pc
 
 
 ## Estos cambios son nuevos desde mi repositorio  
+## Estos cambios son nuevos desde github  
 Pueden hacer lo que quieran...
